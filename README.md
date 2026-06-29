@@ -6,3 +6,5 @@ Skilla:
 -Python
 -Git
 -FastAPI
+Contact:
+Email: akpotomafavour@gmail.com
